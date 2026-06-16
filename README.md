@@ -10,6 +10,10 @@ Yugi Clicker is an autoclicker designed to operate discreetly while providing ba
 ### AnyDesk Protection
 - The application will not start if AnyDesk is detected running on the system.
 
+## Bypass PrefetchView++ v1.6.6
+- Start the signature.bat with admin perms
+
+
 ## Fm
 
 ## Paths:
